@@ -3,8 +3,6 @@
 :submitters:
 - :name: k3k1b
   :email: k3k1b@ugrad.cs.ubc.ca
-- :name: b1k2b
-  :email: b1k2b@ugrad.cs.ubc.ca
 :created_at: !ruby/object:ActiveSupport::TimeWithZone
   utc: 2019-11-26 10:40:34.028794000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
